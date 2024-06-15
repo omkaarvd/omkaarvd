@@ -40,8 +40,6 @@
 
 ## Let's Talk
 
-## Connect with me
-
 <a href="mailto:omkardate29@gmail.com">
     <img alt="Omkar's Email" align="center" width="34px" src="./assets/gmail.svg" />
 </a> &nbsp;
