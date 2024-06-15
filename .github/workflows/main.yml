@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Snake Animation
-        uses: Platane/snk@master
         id: snake-gif
+        uses: Platane/snk@master
         with:
           github_user_name: domkarv
           svg_out_path: dist/github-contribution-grid-snake.svg
@@ -36,3 +36,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Save snake SVG path to environment file
+        run: echo "SNAKE_SVG_PATH=dist/github-contribution-grid-snake.svg" >> $GITHUB_ENV
