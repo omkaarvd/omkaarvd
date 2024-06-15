@@ -40,17 +40,19 @@
 
 ## Let's Talk
 
-<a href="mailto:omkardate29@gmail.com">
+## Connect with me
+
+<a href="mailto:omkardate29@gmail.com" height="full" width="full" style="text-decoration: none;">
     <img alt="Omkar's Email" align="center" width="34px" src="./assets/gmail.svg" />
-</a>
-<a href="https://www.linkedin.com/in/omkardate">
+</a> &nbsp;
+<a href="https://www.linkedin.com/in/omkardate" height="full" width="full" style="text-decoration: none;">
     <img alt="Omkar's Linkedin" align="center" width="45px" src="./assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/omkardate_/">
+</a> &nbsp;
+<a href="https://www.instagram.com/omkardate_/" height="full" width="full" style="text-decoration: none;">
     <img alt="Omkar's Instagram" align="center" width="40px" src="./assets/instagram.svg" />
-</a>
-<a href="https://x.com/domkarv">
+</a> &nbsp;
+<a href="https://x.com/domkarv" height="full" width="full" style="text-decoration: none;">
     <img alt="Omkar's Twitter" align="center" width="35px" src="./assets/twitter.svg" />
-</a>
+</a> &nbsp;
 
 #### Thanks for Visiting my profile. Here have a cookie.🍪
