@@ -24,37 +24,33 @@
 
 ## Languages/Tools I can work with
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-  <img title="Javascript" width="30px" src="./assets/javascript.svg"/> 
-  <img title="Typescript" width="30px" src="./assets/typescript.svg"/> 
-  <img title="React.js" width="30px" src="./assets/react.svg"/> 
-  <img title="Node.js" width="60px" src="./assets/nodejs.svg"/> 
-  <img title="Next.js" width="30px" src="./assets/nextjs.svg"/> 
-  <img title="Vercel" width="60px" src="./assets/vercel.svg"/> 
-  <img title="HTML 5" width="30px" src="./assets/html.png"/> 
-  <img title="CSS3" width="30px" src="./assets/css.svg"/> 
-  <img title="Chrome Dev Tools" width="30px" src="./assets/chromedevtools.svg"/> 
-  <img title="Markdown" width="30px" src="./assets/markdown.svg"/> 
-  <img title="Git" width="30px" src="./assets/git.svg" /> 
-  <img title="VS Code" width="30px" src="./assets/vscode.svg"/> 
-  <img title="Notion" width="30px" src="./assets/notion.svg"/> 
-</div>
+<img title="Javascript" align="center" width="30px" src="./assets/javascript.svg"/> &nbsp;&nbsp;
+<img title="Typescript" align="center" width="30px" src="./assets/typescript.svg"/> &nbsp;&nbsp;
+<img title="React.js" align="center" width="30px" src="./assets/react.svg"/> &nbsp;&nbsp;
+<img title="Node.js" align="center" width="60px" src="./assets/nodejs.svg"/> &nbsp;&nbsp;
+<img title="Next.js" align="center" width="30px" src="./assets/nextjs.svg"/> &nbsp;&nbsp;
+<img title="Vercel" align="center" width="60px" src="./assets/vercel.svg"/> &nbsp;&nbsp;
+<img title="HTML 5" align="center" width="30px" src="./assets/html.png"/> &nbsp;&nbsp;
+<img title="CSS3" align="center" width="30px" src="./assets/css.svg"/> &nbsp;&nbsp;
+<img title="Chrome Dev Tools" align="center" width="30px" src="./assets/chromedevtools.svg"/> &nbsp;&nbsp;
+<img title="Markdown" align="center" width="30px" src="./assets/markdown.svg"/> &nbsp;&nbsp;
+<img title="Git" align="center" width="30px" src="./assets/git.svg" /> &nbsp;&nbsp;
+<img title="VS Code" align="center" width="30px" src="./assets/vscode.svg"/> &nbsp;&nbsp;
+<img title="Notion" align="center" width="30px" src="./assets/notion.svg"/>&nbsp;&nbsp;
 
 ## Let's Talk
 
-<div style="display: flex; align-items: center; flex-direction: row; gap: 8px;">
-    <a href="mailto:omkardate29@gmail.com">
-        <img alt="Omkar's Email" width="34px" src="./assets/gmail.svg" />
-    </a>
-    <a href="https://www.linkedin.com/in/omkardate">
-        <img alt="Omkar's Linkedin" width="45px" src="./assets/linkedin.svg" />
-    </a>
-    <a href="https://www.instagram.com/omkardate_/">
-        <img alt="Omkar's Instagram" width="40px" src="./assets/instagram.svg" />
-    </a>
-    <a href="https://x.com/domkarv">
-        <img alt="Omkar's Twitter" width="35px" src="./assets/twitter.svg" />
-    </a>
-</div>
+<a href="mailto:omkardate29@gmail.com">
+    <img alt="Omkar's Email" align="center" width="34px" src="./assets/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/omkardate">
+    <img alt="Omkar's Linkedin" align="center" width="45px" src="./assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/omkardate_/">
+    <img alt="Omkar's Instagram" align="center" width="40px" src="./assets/instagram.svg" />
+</a>
+<a href="https://x.com/domkarv">
+    <img alt="Omkar's Twitter" align="center" width="35px" src="./assets/twitter.svg" />
+</a>
 
 #### Thanks for Visiting my profile. Here have a cookie.🍪
