@@ -13,7 +13,8 @@
   />
 </picture>
 
-## Omkar, here! <img src="./assets/Hi.gif" height="24px">
+## 🙏 नमस्ते. I'm Omkar 😁
+<!-- ## Omkar, here! <img src="./assets/Hi.gif" height="24px"> -->
 
 - 🔭 I’m currently working on improving my skills.
 - 🌱 I’m currently learning a lot of stuff like DSA, JS/TS, Node.js, Next.js, and more about Full Stack Development.
