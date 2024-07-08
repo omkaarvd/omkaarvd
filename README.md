@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on improving my skills.
 - 🌱 I’m currently learning a lot of stuff like DSA with C++, JS/TS, Node.js, Next.js, and more about Full Stack Development.
 - 🥇 I'm proficient in JS/TS and it's libraries.
-- 🎓 I'm in my senoir year pursuing a graduate degree in CS.
+- 🎓 I'm in my senior year pursuing a graduate degree in CS.
 - 🌟 Fun Fact: I'm developer.🙂
 - 😄 Pronouns: He/Him
 
