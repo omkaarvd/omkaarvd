@@ -9,7 +9,7 @@
 <!-- ## Omkar, here! <img src="./assets/Hi.gif" height="24px"> -->
 
 - 🔭 I’m currently working on improving my skills.
-- 🌱 I’m currently learning a lot of stuff like DSA, JS/TS, Node.js, Next.js, and more about Full Stack Development.
+- 🌱 I’m currently learning a lot of stuff like DSA, JS/TS, React.js, Next.js, AI, and more about Full Stack Development.
 - 🥇 I'm proficient in JS/TS and it's libraries.
 - 🎓 I'm in my senior year pursuing a graduate degree in CS.
 - 🌟 Fun Fact: I'm a developer.🙂
