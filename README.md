@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning a lot of stuff like DSA, JS/TS, React.js, Next.js, AI, and more about Full Stack Development.
 - 🥇 I'm proficient in JS/TS and it's libraries.
 - 🎓 I'm in my senior year pursuing a graduate degree in CS.
-- 🌟 Fun Fact: I'm a developer.🙂
+- 🌟 Fun Fact: I code.🙂
 - 😄 Pronouns: He/Him
 
 <!-- 
