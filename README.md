@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/domkarv/domkarv/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/domkarv/domkarv/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/domkarv/domkarv/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omkaarvd/omkaarvd/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omkaarvd/omkaarvd/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/omkaarvd/omkaarvd/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## 🙏 नमस्ते. I'm Omkar 😁
@@ -74,6 +74,6 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=domkarv&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=omkaarvd&style=for-the-badge)
 
 #### Thanks for Visiting my profile. Here have a cookie.🍪
