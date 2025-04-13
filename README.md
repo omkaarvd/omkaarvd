@@ -8,8 +8,8 @@
 
 <!-- ## Omkar, here! <img src="./assets/Hi.gif" height="24px"> -->
 
-- 🔭 I’m currently working on improving my skills.
-- 🌱 I’m currently learning a lot of stuff like DSA, JS/TS, React.js, Next.js, AI, and more about Full Stack Development.
+- 🔭 Busy in improving myself.
+- 🌱 I’m currently learning a lot of stuff like DSA, JS/TS, Python, React.js, Next.js, GenAI, and more.
 - 🥇 I'm proficient in JS/TS and it's libraries.
 - 🎓 I'm in my senior year pursuing a graduate degree in CS.
 - 🌟 Fun Fact: I code.🙂
