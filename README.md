@@ -4,7 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/omkaarvd/omkaarvd/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🙏 नमस्ते. I'm Omkar 😁
+## नमस्ते 🙏. I'm Omkar 😁
 
 <!-- ## Omkar, here! <img src="./assets/Hi.gif" height="24px"> -->
 
