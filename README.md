@@ -4,14 +4,13 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/omkaarvd/omkaarvd/output/github-contribution-grid-snake.svg">
 </picture>
 
-## नमस्ते 🙏. I'm Omkar 😁
+## नमस्ते 🙏. I'm Omkar
 
 <!-- ## Omkar, here! <img src="./assets/Hi.gif" height="24px"> -->
 
 - 🔭 Busy in improving myself.
-- 🌱 I’m currently learning a lot of stuff like DSA, JS/TS, Python, React.js, Next.js, GenAI, and more.
-- 🥇 I'm proficient in JS/TS and it's libraries.
-- 🎓 I'm in my senior year pursuing a graduate degree in CS.
+- 🌱 I’m currently learning a lot of stuff like DSA, JS/TS, React.js, Next.js, GenAI, and more.
+- 🥇 I'm proficient in JS/TS and there libraries.
 - 🌟 Fun Fact: I code.🙂
 - 😄 Pronouns: He/Him
 
@@ -70,10 +69,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkardate29@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkardate)
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/omkaarvd)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/omkaarvd)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/omkaardate)
 
 <br>
 
 ![](https://komarev.com/ghpvc/?username=omkaarvd&style=for-the-badge)
 
-#### Thanks for Visiting my profile. Here have a cookie.🍪
+#### Thanks for visiting my profile. Here have a cookie.🍪
