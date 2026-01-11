@@ -9,10 +9,10 @@
 <!-- ## Omkar, here! <img src="./assets/Hi.gif" height="24px"> -->
 
 - 🔭 Busy in improving myself.
-- 🌱 I’m currently learning a lot of stuff like DSA, JS/TS, React.js, Next.js, GenAI, and more.
+- 🌱 I’m currently learning a lot of stuff like JS/TS, React, Next.js, DSA, GenAI, and many more.
 - 🥇 I'm proficient in JS/TS and there libraries.
-- 🌟 Fun Fact: I code.🙂
-- 😄 Pronouns: He/Him
+- 🌟 Fun Fact: I code can.
+- 😄 Pronouns: He/Him.
 
 <!-- 
 ## Languages/Tools I can work with
