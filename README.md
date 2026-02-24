@@ -73,4 +73,4 @@
 
 ![](https://komarev.com/ghpvc/?username=omkaarvd&style=for-the-badge)
 
-#### Thanks for visiting my profile. Here have a cookie.🍪
+#### Thanks for stopping by my profile—have a cookie 🍪
