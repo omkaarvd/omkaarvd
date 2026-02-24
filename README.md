@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning a lot of stuff like JS/TS, React, Next.js, DSA, GenAI...
 - 🥇 I'm proficient in JS/TS and related libraries.
 - 🌟 Fun Fact: I’m not even a portion of what I want to be.
-- 😄 Pronouns: He/Him.
 
 <!-- 
 ## Languages/Tools I can work with
