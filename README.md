@@ -10,7 +10,7 @@
 
 - 🔭 Busy in improving myself.
 - 🌱 I’m currently learning a lot of stuff like JS/TS, React, Next.js, DSA, GenAI...
-- 🥇 I'm proficient in JS/TS and there libraries.
+- 🥇 I'm proficient in JS/TS and related libraries.
 - 🌟 Fun Fact: I code can.
 - 😄 Pronouns: He/Him.
 
